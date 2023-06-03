@@ -1,0 +1,35 @@
+{
+  "name": "hunger",
+  "version": "1.0.0",
+  "description": "food delivery website",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saquibhamza333/Hunger.git"
+  },
+  "keywords": [
+    "hunger",
+    "react"
+  ],
+  "author": "Md Saquib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saquibhamza333/Hunger/issues"
+  },
+  "homepage": "https://github.com/saquibhamza333/Hunger#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist" : [
+    "last 5 versions"
+  ]
+
+}
